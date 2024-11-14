@@ -1,8 +1,10 @@
 {
     "models": [
-        ["LL"]
+        "Potion-Maker/Pio",
+        "Potion-Maker/Tia"
     ],
     "messages": [
-        "你好啊！"
+        "来自 Potion Maker 的 Pio 酱 ~",
+        "来自 Potion Maker 的 Tia 酱 ~"
     ]
 }
